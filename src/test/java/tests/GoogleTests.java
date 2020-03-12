@@ -1,5 +1,7 @@
 package tests;
 
 public class GoogleTests {
-    System.out.println("Helloooo!");
+    public static void main(String[] args) {
+        System.out.println("Helloooo!");
+    }
 }
