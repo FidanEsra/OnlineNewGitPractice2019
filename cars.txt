@@ -4,3 +4,4 @@ Tesla
 BMW iS7
 BMW X6
 porsche
+Masserati
